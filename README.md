@@ -151,7 +151,7 @@ The database comes pre-loaded with:
 ## 📁 File Structure
 
 ```
-Meet-Car rental/
+Fenil-Car Rental/
 ├── 📄 index.php                 # Main landing page and login
 ├── 📄 register.php              # User registration
 ├── 📄 cardetails.php            # Car catalog and details
